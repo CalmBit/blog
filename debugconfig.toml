@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Dose"
 theme = "dose"
 disqusShortname = "dose-blog"
+relativeURLs = true
