@@ -1,0 +1,6 @@
+<section class="meta">
+        <span id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </span> | 
+        <span id="wordcount"> {{ .WordCount }} Words ({{.ReadingTime}} minute read) </span> |
+        <span id="epistemics"> epistemics: <a href="/about/#epistemics-huh">{{ .Params.epistemic }}</a> </span> |
+        <span id="importance"> importance: <a href="/about/#importance-huh">{{ .Params.importance }}</a> </span>
+      </section>

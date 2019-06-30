@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main aria-role="main">
+  <header class="homepage-header">
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
+    {{ end }}
+  </header>
+  <div>
+        {{ range first 10 .Pages }}
+        <article>
+          <!-- this <div> includes the title summary -->
+          <div>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{-  partial "meta" . }}
+            <hr>
+            {{ .Summary }}
+          </div>
+          {{ if .Truncated }}
+          <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+          <div>
+            <br>
+            <a href="{{ .Permalink }}">Read More…</a>
+          </div>
+          {{ end }}
+        </article>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
