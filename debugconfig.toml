@@ -1,6 +1,6 @@
 baseURL = "https://calmbit.github.io/blog"
 languageCode = "en-us"
-title = "Dose"
+title = "Home"
 theme = "dose"
 disqusShortname = "dose-blog"
 relativeURLs = true
