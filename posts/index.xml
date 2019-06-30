@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dose</title>
+    <link>https://calmbit.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Dose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2019 10:25:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://calmbit.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Energy and Decentralization</title>
+      <link>https://calmbit.github.io/blog/posts/energy_and_decentralization/</link>
+      <pubDate>Wed, 26 Jun 2019 10:25:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/energy_and_decentralization/</guid>
+      <description>It&amp;rsquo;s no small secret that climate change is here, and is absolutely something to worry about. It&amp;rsquo;s also no small secret that this is, in no meager part, the fault and responsibility of humankind post-industrialization. Our consumption of fossil fuels continues to demand more and more from the environment, and our increasing dependency on the services these fuels power makes the demand on alternative energies all the more strenuous and exhausting.</description>
+    </item>
+    
+    <item>
+      <title>HTTP verbiage and its abuse</title>
+      <link>https://calmbit.github.io/blog/posts/http_verbiage/</link>
+      <pubDate>Tue, 02 Apr 2019 14:20:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/http_verbiage/</guid>
+      <description>I&amp;rsquo;ve noticed a trend in my experience working on bigger server-side projects that, apart from being just plain annoying, is actually somewhat harmful - the chronic and repeated misuse of HTTP verbiage. I&amp;rsquo;m not exactly sure why, when server-side development is being taught, we&amp;rsquo;re not imprinting the importance of these semantics on students, at least as a whole. Time and time again I&amp;rsquo;ve seen GET requests misused to submit information and change state, POST requests used to retrieve information transparently, and in general a reluctance to change this habit.</description>
+    </item>
+    
+    <item>
+      <title>Gopher, and why the internet is broken (and why that&#39;s probably okay).</title>
+      <link>https://calmbit.github.io/blog/posts/gopher_thoughts/</link>
+      <pubDate>Fri, 15 Mar 2019 05:25:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/gopher_thoughts/</guid>
+      <description>I think the broader internet has, for a while now, come to the unsurprising conclusion that the internet, as we know it, is siloed and broken. I hesitate to think that this is particularly controversial, but it remains clear in my eyes that the continued centralization and &amp;ldquo;ecosystemization&amp;rdquo; of tech has systematically and unapologetically butchered the original &amp;ldquo;meaning&amp;rdquo; behind it. What started out, at its most basic, as a way to display rich, knowledgable hypertext has been bent repeatedly in order to adapt to a load of various technologies, culminating in the current technological landscape.</description>
+    </item>
+    
+    <item>
+      <title>Dose - A Blog</title>
+      <link>https://calmbit.github.io/blog/posts/dose_intro/</link>
+      <pubDate>Tue, 12 Mar 2019 19:44:30 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/dose_intro/</guid>
+      <description>I&amp;rsquo;m not exactly sure why I&amp;rsquo;m deciding to start this, but suffice to say it&amp;rsquo;s probably long overdue that the majority of my ramblings get written down somewhere. As a result, I&amp;rsquo;m starting Dose - the tiny, insignificant and fundamental ramblings of a Computer Science student.
+We&amp;rsquo;re going to see where this goes, but for now it&amp;rsquo;ll probably serve as a scratch space for some of my opinions and twitter-unworthy hot-takes.</description>
+    </item>
+    
+  </channel>
+</rss>

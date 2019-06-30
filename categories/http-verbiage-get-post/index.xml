@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>http verbiage get post on Dose</title>
+    <link>https://calmbit.github.io/blog/categories/http-verbiage-get-post/</link>
+    <description>Recent content in http verbiage get post on Dose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 14:20:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://calmbit.github.io/blog/categories/http-verbiage-get-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTTP verbiage and its abuse</title>
+      <link>https://calmbit.github.io/blog/posts/http_verbiage/</link>
+      <pubDate>Tue, 02 Apr 2019 14:20:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/http_verbiage/</guid>
+      <description>I&amp;rsquo;ve noticed a trend in my experience working on bigger server-side projects that, apart from being just plain annoying, is actually somewhat harmful - the chronic and repeated misuse of HTTP verbiage. I&amp;rsquo;m not exactly sure why, when server-side development is being taught, we&amp;rsquo;re not imprinting the importance of these semantics on students, at least as a whole. Time and time again I&amp;rsquo;ve seen GET requests misused to submit information and change state, POST requests used to retrieve information transparently, and in general a reluctance to change this habit.</description>
+    </item>
+    
+  </channel>
+</rss>

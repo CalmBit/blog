@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gopher html http on Dose</title>
+    <link>https://calmbit.github.io/blog/categories/gopher-html-http/</link>
+    <description>Recent content in gopher html http on Dose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 05:25:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://calmbit.github.io/blog/categories/gopher-html-http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gopher, and why the internet is broken (and why that&#39;s probably okay).</title>
+      <link>https://calmbit.github.io/blog/posts/gopher_thoughts/</link>
+      <pubDate>Fri, 15 Mar 2019 05:25:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/posts/gopher_thoughts/</guid>
+      <description>I think the broader internet has, for a while now, come to the unsurprising conclusion that the internet, as we know it, is siloed and broken. I hesitate to think that this is particularly controversial, but it remains clear in my eyes that the continued centralization and &amp;ldquo;ecosystemization&amp;rdquo; of tech has systematically and unapologetically butchered the original &amp;ldquo;meaning&amp;rdquo; behind it. What started out, at its most basic, as a way to display rich, knowledgable hypertext has been bent repeatedly in order to adapt to a load of various technologies, culminating in the current technological landscape.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dose</title>
+    <link>https://calmbit.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Dose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2019 10:25:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://calmbit.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>climate energy decentralization</title>
+      <link>https://calmbit.github.io/blog/categories/climate-energy-decentralization/</link>
+      <pubDate>Wed, 26 Jun 2019 10:25:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/categories/climate-energy-decentralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http verbiage get post</title>
+      <link>https://calmbit.github.io/blog/categories/http-verbiage-get-post/</link>
+      <pubDate>Tue, 02 Apr 2019 14:20:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/categories/http-verbiage-get-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gopher html http</title>
+      <link>https://calmbit.github.io/blog/categories/gopher-html-http/</link>
+      <pubDate>Fri, 15 Mar 2019 05:25:00 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/categories/gopher-html-http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction meta</title>
+      <link>https://calmbit.github.io/blog/categories/introduction-meta/</link>
+      <pubDate>Tue, 12 Mar 2019 19:44:30 -0400</pubDate>
+      
+      <guid>https://calmbit.github.io/blog/categories/introduction-meta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
