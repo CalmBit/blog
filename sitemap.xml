@@ -5,7 +5,11 @@
   <url>
     <loc>https://calmbit.github.io/blog/categories/</loc>
     <lastmod>2019-06-26T10:25:00-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calmbit.github.io/blog/categories/climate-energy-decentralization/</loc>
+    <lastmod>2019-06-26T10:25:00-04:00</lastmod>
   </url>
   
   <url>
@@ -16,19 +20,11 @@
   <url>
     <loc>https://calmbit.github.io/blog/</loc>
     <lastmod>2019-06-26T10:25:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calmbit.github.io/blog/posts/</loc>
     <lastmod>2019-06-26T10:25:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calmbit.github.io/blog/categories/climate-energy-decentralization/</loc>
-    <lastmod>2019-06-26T10:25:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,18 +35,16 @@
   <url>
     <loc>https://calmbit.github.io/blog/categories/http-verbiage-get-post/</loc>
     <lastmod>2019-04-02T14:20:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calmbit.github.io/blog/posts/gopher_thoughts/</loc>
-    <lastmod>2019-03-15T05:25:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://calmbit.github.io/blog/categories/gopher-html-http/</loc>
     <lastmod>2019-03-15T05:25:00-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calmbit.github.io/blog/posts/gopher_thoughts/</loc>
+    <lastmod>2019-03-15T05:25:00-04:00</lastmod>
   </url>
   
   <url>
@@ -61,7 +55,6 @@
   <url>
     <loc>https://calmbit.github.io/blog/categories/introduction-meta/</loc>
     <lastmod>2019-03-12T19:44:30-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -70,7 +63,6 @@
   
   <url>
     <loc>https://calmbit.github.io/blog/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
