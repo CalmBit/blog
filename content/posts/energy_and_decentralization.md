@@ -1,6 +1,7 @@
 ---
 title:  "Energy and Decentralization"
 date:   2019-06-26 10:25:00 -0400
+updated: 2019-10-06 17:53:00 -0400
 categories: climate energy decentralization
 epistemic: semi-believed
 importance: 7
@@ -85,7 +86,46 @@ more taxing workloads to dedicated computers that can upgrade easily rather than
 being thrown away completely. Additionally, we can adapt in some of the same ways
 to combat the positively minute effect each one of us has at a consumer device level.
 
-(end of section one, still unfinished)
+## Data Centers and Renewable Energy
+
+One point for consideration in this discussion is the heavy reliance and
+subsequent zoning of these data centers near sources of renewable energy.
+Testaments from major players in the industry of setting up data centers tend to
+pride themselves on the use of renewables in the day-to-day operations of their
+buildings. 
+
+Google touts that they are the 
+[largest corporate purchaser of renewable energy](https://www.blog.google/outreach-initiatives/environment/meeting-our-match-buying-100-percent-renewable-energy/) 
+in the world. Additionally, Google advertised an efficiency of nearly
+[50% over the industry standard](https://sustainability.google/projects/machine-learning/)
+in the spring 2014, with further apparent reductions being made through
+the application of [machine learning](/pdf/gao_2014.pdf) in optimizing the 
+facility. These steps of taking pre-existing (and always expanding) infrastructure
+and continuing to refine the formula in multiple avenues is admirable[^6].
+
+Amazon's data on data center sustainability is buried a bit deeper, being
+seemingly separated from their main sustainability initiatives (which are,
+unsurprisingly, focused on their "primary" business of selling goods), and
+instead located on their
+[AWS homepage](https://aws.amazon.com/about-aws/sustainability/). Amazon owns
+an array of wind and solar farms, and, as of April of 2019, has committed to four
+new installations in Europe and the United States. AWS is apparently
+[at least 50% renewable](https://aws.amazon.com/about-aws/sustainability/sustainability-timeline/)
+as of 2018, but the data (like Google) is somewhat nebulous and in vague percentages.
+Additionally, Amazon [buys and retires "environmental credits"](https://aws.amazon.com/about-aws/sustainability/#AWS_purchases_and_retires_environmental_attributes,_like_Renewable_Energy_Credits_and_Guarantees_of_Origin,_to_cover_the_non-renewable_energy_we_use_in_these_regions.)
+in subsequent proportion to their non-renewable usage.
+
+Google's position on this, in my opinion, reaches the key 
+threshold between idealistic and practical. Purchasing renewable energy to match 
+your consumption is an admirable goal, especially when it leads to more
+renewable energy being available in local power grids. Amazon takes part in
+this too, but has spent more money and time investing in bootstrapping its
+energy in order to conquer the "renewable energy used" figure. This is fine, and
+theoretically more of a "green" initiative than simply matching your consumption,
+but it seems to be more self-serving than anything. It eschews practicality for
+idealism, which is why I look at it as more of a flight of fancy. Nevertheless,
+50% is not insignificant for a powerhouse like AWS, nor will I disagree with
+a company attempting to clean up its energy usage. 
 
 -----------
 
@@ -102,4 +142,6 @@ to combat the positively minute effect each one of us has at a consumer device l
 [^4]: Ibid.
 
 [^5]: Ibid.
+
+[^6]: It's easy to take the reductionist viewpoint here, and claim that it's simply a matter of marketing or finances. Yes, a side effect of switching to renewable energy sources is looking "hip," and as a result of increased penetration in the energy market, along with various inevitably subsidies, renewable sources are sometimes cheaper. It stands to reason, however, that pure cynicism can't completely encapsulate Google's steps as an entity. A sea change so massive in a company so large is inevitably composed of multiple people, all of whom I have a hard time believing are so cynically narrow-minded.
 
