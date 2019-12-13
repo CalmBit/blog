@@ -1,7 +1,7 @@
 ---
 title:  "Energy and Decentralization"
 date:   2019-06-26 10:25:00 -0400
-updated: 2019-10-06 17:53:00 -0400
+lastmod: 2019-10-06 17:53:00 -0400
 categories: climate energy decentralization
 epistemic: semi-believed
 importance: 7
